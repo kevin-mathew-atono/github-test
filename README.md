@@ -1,3 +1,3 @@
 # github-test
-Github Test
+Github Test for integration
 * tests
